@@ -1,3 +1,5 @@
+# Hi, I'm Hariprasath <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
 # 💫 About Me:
 Student | Backend Developer<br>💻 Software engineering Intern (Zoho, Summer 2025)<br>🛠 Building Scalable Systems, Secure Protocols & AI Solutions<br>👀 Exploring Competitive Programming & Distributed Systems
 
